@@ -54,7 +54,7 @@ header{
 
 header .navbar{
     display: flex;
-    padding: 10px;
+    padding: 5px;
     justify-content: space-between;
     align-items: center;
     
@@ -693,3 +693,4 @@ img{
          }
 
     }
+
